@@ -4,4 +4,6 @@ This is a Disney+ landing page clone built using ReactJS and Tailwind CSS
 
 # Demo
 
-https://github.com/user-attachments/assets/e67d5cbd-a855-40d7-b42e-096dbe0f56a6
+This is a demo video for the Disney+ Frontend Clone
+
+https://github.com/user-attachments/assets/24a4f1b2-d253-45e6-9037-4a8f021eea49
