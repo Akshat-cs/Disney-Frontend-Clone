@@ -1,7 +1,7 @@
 import axios from "axios";
-require("dotenv").config();
 
-const api_key = process.env.API_KEY;
+const api_key = import.meta.env.VITE_APP_API_KEY;
+console.log(api_key);
 
 const movieBaseUrl = "https://api.themoviedb.org/3";
 const movieByGenreBaseURL =
